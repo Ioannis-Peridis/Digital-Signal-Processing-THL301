@@ -5,4 +5,4 @@ with professor : Michail Zerbakis
 
 from: Techincal University Of Crete
 
-Imlementation in MATLAB: Discrete and Continues Fourier Transform, Z and Z inverse Transform, IIR Filters (Buterworth, Chyvey
+Imlementation in MATLAB: Discrete and Continues Fourier Transform, Z and Z inverse Transform, IIR Filters (Butterworth, Chebysev), Windowing, Gibs fenomenon
